@@ -1,4 +1,4 @@
-# 🌐 Yves Nkwane — Web Development Portfolio
+# 🌐 Jean Yves Nkwane — Web Development Portfolio
 
 <h3><a href="https://nejy190501.github.io/personal-portfolio-web/">🚀 View Live Demo</a></h3>
 
